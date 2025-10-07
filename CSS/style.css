@@ -1,0 +1,16 @@
+
+.hero-section {
+    background-image: url(../img/atardecer.jpg); 
+    background-size: cover;
+    background-position: center;
+    height: 60vh; /* 60% de la altura de la ventana */
+    position: relative;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.8); /* Sombra para que el texto blanco se vea mejor */
+}
+.destinos-banner {
+    background-image: url(https://www.shutterstock.com/image-photo/top-aerial-drone-view-woman-260nw-1766779739.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 30vh; 
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+}
